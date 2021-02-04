@@ -1,0 +1,16 @@
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/bin/Debug/net5.0/IcelandSystem
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/bin/Debug/net5.0/IcelandSystem.deps.json
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/bin/Debug/net5.0/IcelandSystem.runtimeconfig.json
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/bin/Debug/net5.0/IcelandSystem.runtimeconfig.dev.json
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/bin/Debug/net5.0/IcelandSystem.dll
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/bin/Debug/net5.0/ref/IcelandSystem.dll
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/bin/Debug/net5.0/IcelandSystem.pdb
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/obj/Debug/net5.0/IcelandSystem.csprojAssemblyReference.cache
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/obj/Debug/net5.0/IcelandSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/obj/Debug/net5.0/IcelandSystem.AssemblyInfoInputs.cache
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/obj/Debug/net5.0/IcelandSystem.AssemblyInfo.cs
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/obj/Debug/net5.0/IcelandSystem.csproj.CoreCompileInputs.cache
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/obj/Debug/net5.0/IcelandSystem.dll
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/obj/Debug/net5.0/ref/IcelandSystem.dll
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/obj/Debug/net5.0/IcelandSystem.pdb
+/home/tom/Documents/Tom/C# Projects/IcelandSystem/obj/Debug/net5.0/IcelandSystem.genruntimeconfig.cache
